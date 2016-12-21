@@ -1,0 +1,14 @@
+{
+  "name": "lets-chat",
+  "version": "1.0.0",
+  "description": "This is a test init",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\\\" && exit 1"
+  },
+  "author": "Amardeep",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.12.0"
+  }
+}
